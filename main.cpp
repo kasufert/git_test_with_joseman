@@ -6,7 +6,7 @@ int main()
 {
     funk();
     printf("Hello Jack\n");
-    printf("Hello Aidan\n");
+    printf("Hello Alfonzo\n");
     printf("Hello Jose\n");
     printf("The number is: %i\n", getNum());
     return 0;
