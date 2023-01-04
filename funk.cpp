@@ -2,5 +2,5 @@
 
 void funk()
 {
-    printf("called from funk\n");
+    printf("called from funk by jack!\n");
 }
