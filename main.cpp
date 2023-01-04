@@ -4,7 +4,6 @@
 
 int main()
 {
-    printf("this is aidans branch!");
     funk();
     printf("Hello Jack\n");
     printf("Hello All\n");
